@@ -23,6 +23,18 @@
     "path": "libdns.so",
     "outname": "libdns.so",
     "version":"1.0"
+  },{
+    "Name":"Library OpenVPN ICS 1",
+    "Info":"1MB",
+    "path": "libopvpnutil.so",
+    "outname": "libopvpnutil.so",
+    "version":"1.0"
+  },{
+    "Name":"Library OpenVPN ICS 2",
+    "Info":"1MB",
+    "path": "libjbcrypto.so",
+    "outname": "libjbcrypto.so",
+    "version":"1.0"
   }
 ]
 }
