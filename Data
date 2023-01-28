@@ -1,8 +1,14 @@
 {
   "Data":[{
-    "Name":"Lib Core",
-    "path": "libazz.so",
-    "outname": "libazz.so",
+    "Name":"Library Psiphon Tunnel",
+    "path": "libpsiphon.so",
+    "outname": "libpsiphon.so",
     "version":"1.0"
-  }]
+  },{
+    "Name":"Library Psiphon Tun2Socks",
+    "path": "libtun4socks.so",
+    "outname": "libtun4socks.so",
+    "version":"1.0"
+  }
+]
 }
