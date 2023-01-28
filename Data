@@ -35,6 +35,12 @@
     "path": "libjbcrypto.so",
     "outname": "libjbcrypto.so",
     "version":"1.0"
+  },{
+    "Name":"Library StartDNS",
+    "Info":"6MB",
+    "path": "libstartdns.so",
+    "outname": "libdns.so",
+    "version":"1.0"
   }
 ]
 }
