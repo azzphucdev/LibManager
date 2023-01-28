@@ -9,6 +9,16 @@
     "path": "libtun4socks.so",
     "outname": "libtun4socks.so",
     "version":"1.0"
+  },{
+    "Name":"Library FastDNS",
+    "path": "libfastdns.so",
+    "outname": "libfastdns.so",
+    "version":"1.0"
+  },{
+    "Name":"Library SlowDNS/DNSTT",
+    "path": "libdns.so",
+    "outname": "libdns.so",
+    "version":"1.0"
   }
 ]
 }
