@@ -1,25 +1,25 @@
 {
   "Data":[{
     "Name":"Library Psiphon Tunnel",
-    "Info":"Size 20MB",
+    "Info":"20MB",
     "path": "libpsiphon.so",
     "outname": "libpsiphon.so",
     "version":"1.0"
   },{
     "Name":"Library Psiphon Tun2Socks",
-    "Info":"Size 200KB",
+    "Info":"200KB",
     "path": "libtun4socks.so",
     "outname": "libtun4socks.so",
     "version":"1.0"
   },{
     "Name":"Library FastDNS",
-    "Info":"Size 4MB",
+    "Info":"4MB",
     "path": "libfastdns.so",
     "outname": "libfastdns.so",
     "version":"1.0"
   },{
     "Name":"Library SlowDNS/DNSTT",
-    "Info":"Size 6MB",
+    "Info":"6MB",
     "path": "libdns.so",
     "outname": "libdns.so",
     "version":"1.0"
