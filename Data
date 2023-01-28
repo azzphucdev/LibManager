@@ -39,7 +39,13 @@
     "Name":"Library StartDNS",
     "Info":"6MB",
     "path": "libstartdns.so",
-    "outname": "libdns.so",
+    "outname": "libstartdns.so",
+    "version":"1.0"
+  },{
+    "Name":"Library azz",
+    "Info":"200KB",
+    "path": "libazz.so",
+    "outname": "libazz.so",
     "version":"1.0"
   }
 ]
