@@ -1,31 +1,8 @@
 {
   "Data":[{
-    "Name":"arm64-v8a",
-    "path": "arm64-v8a/libazz.so",
+    "Name":"Lib Core",
+    "path": "libazz.so",
     "outname": "libazz.so",
-    "version":"1.0",
-    "minimumVersion":"",
-    "targetVersion":""
-  },{
-    "Name":"armeabi-v7a",
-    "path": "armeabi-v7a/libazz.so",
-    "outname": "libazz.so",
-    "version":"1.0",
-    "minimumVersion":"",
-    "targetVersion":""
-  },{
-    "Name":"x86_64",
-    "path": "x86_64/libazz.so",
-    "outname": "libazz.so",
-    "version":"1.0",
-    "minimumVersion":"",
-    "targetVersion":""
-  },{
-    "Name":"x86",
-    "path": "x86/libazz.so",
-    "outname": "libazz.so",
-    "version":"1.0",
-    "minimumVersion":"",
-    "targetVersion":""
+    "version":"1.0"
   }]
 }
