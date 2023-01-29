@@ -6,7 +6,7 @@
     "outname": "libpsiphon.so",
     "version":"1.0"
   },{
-    "Name":"Library Psiphon Tun2Socks",
+    "Name":"Library Psiphon Tun2Sock",
     "Info":"200KB",
     "path": "libtun4socks.so",
     "outname": "libtun4socks.so",
@@ -19,19 +19,19 @@
     "version":"1.0"
   },{
     "Name":"Library SlowDNS/DNSTT",
-    "Info":"6MB",
+    "Info":"6.63MB",
     "path": "libdns.so",
     "outname": "libdns.so",
     "version":"1.0"
   },{
     "Name":"Library OpenVPN ICS 1",
-    "Info":"1MB",
+    "Info":"1.84MB",
     "path": "libopvpnutil.so",
     "outname": "libopvpnutil.so",
     "version":"1.0"
   },{
     "Name":"Library OpenVPN ICS 2",
-    "Info":"1MB",
+    "Info":"100KB",
     "path": "libjbcrypto.so",
     "outname": "libjbcrypto.so",
     "version":"1.0"
@@ -40,12 +40,6 @@
     "Info":"6MB",
     "path": "libstartdns.so",
     "outname": "libstartdns.so",
-    "version":"1.0"
-  },{
-    "Name":"Library azz",
-    "Info":"200KB",
-    "path": "libazz.so",
-    "outname": "libazz.so",
     "version":"1.0"
   }
 ]
