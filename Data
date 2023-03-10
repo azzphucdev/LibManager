@@ -1,5 +1,11 @@
 {
   "Data":[{
+    "Name":"Library UDP2RAW Tunnel",
+    "Info":"22MB",
+    "path": "libudp2raw.so",
+    "outname": "libudp2raw.so",
+    "version":"1.0"
+  },{
     "Name":"Library Psiphon Tunnel",
     "Info":"20MB",
     "path": "libpsiphon.so",
