@@ -6,6 +6,18 @@
     "outname": "libsager.so",
     "version":"1.0"
   },{
+    "Name":"Library SagerNet GeoIP",
+    "Info":"1MB",
+    "path": "geoip.dat.xz",
+    "outname": "geoip.dat.xz",
+    "version":"1.0"
+  },{
+    "Name":"Library SagerNet GepSite",
+    "Info":"150KB",
+    "path": "geosite.dat.xz",
+    "outname": "geosite.dat.xz",
+    "version":"1.0"
+  },{
     "Name":"Library UDP2RAW Tunnel",
     "Info":"22MB",
     "path": "libudp2raw.so",
