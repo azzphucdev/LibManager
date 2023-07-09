@@ -1,5 +1,11 @@
 {
   "Data":[{
+    "Name":"Library SQL",
+    "Info":"2.5MB",
+    "path": "libsqlcipher.so",
+    "outname": "libsqlcipher.so",
+    "version":"1.0"
+  },{
     "Name":"Library SagerNet",
     "Info":"25MB",
     "path": "libsager.so",
