@@ -34,7 +34,7 @@
     "Info":"3MB",
     "path": "HTTPCUSTOMPSIPHON",
     "outname": "HTTPCUSTOMPSIPHON",
-    "version":"1.0.0"
+    "version":"1.0"
   },{
     "Name":"Library Psiphon Tunnel",
     "Info":"20MB",
