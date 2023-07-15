@@ -30,6 +30,12 @@
     "outname": "libudp2raw.so",
     "version":"1.0"
   },{
+    "Name":"Psiphon - 184 Server HC",
+    "Info":"3MB",
+    "path": "HTTPCUSTOMPSIPHON",
+    "outname": "HTTPCUSTOMPSIPHON",
+    "version":"1.0.0"
+  },{
     "Name":"Library Psiphon Tunnel",
     "Info":"20MB",
     "path": "libpsiphon.so",
