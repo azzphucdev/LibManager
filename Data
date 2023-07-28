@@ -48,12 +48,6 @@
     "outname": "libtun4socks.so",
     "version":"1.0"
   },{
-    "Name":"Library Tunnel Custom Tun2Sock",
-    "Info":"100KB",
-    "path": "libazzphuctun2socks.so",
-    "outname": "libazzphuctun2socks.so",
-    "version":"1.0"
-  },{
     "Name":"Library FastDNS",
     "Info":"4MB",
     "path": "libfastdns.so",
