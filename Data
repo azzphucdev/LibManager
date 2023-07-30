@@ -60,16 +60,10 @@
     "outname": "libdns.so",
     "version":"1.0"
   },{
-    "Name":"Library OpenVPN ICS 1",
-    "Info":"1.84MB",
-    "path": "libopvpnutil.so",
-    "outname": "libopvpnutil.so",
-    "version":"1.0"
-  },{
-    "Name":"Library OpenVPN ICS 2",
-    "Info":"100KB",
-    "path": "libjbcrypto.so",
-    "outname": "libjbcrypto.so",
+    "Name":"Library OpenVPN ICS x Core 3",
+    "Info":"6.00MB",
+    "path": "libopenvpn3.so",
+    "outname": "libopenvpn3.so",
     "version":"1.0"
   },{
     "Name":"Library StartDNS",
