@@ -60,7 +60,7 @@
     "outname": "libdns.so",
     "version":"1.0"
   },{
-    "Name":"Library OpenVPN Core 3 Latest Version",
+    "Name":"Library OpenVPN Core 3",
     "Info":"6.00MB",
     "path": "libopenvpn3.so",
     "outname": "libopenvpn3.so",
