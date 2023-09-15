@@ -71,6 +71,12 @@
     "path": "libstartdns.so",
     "outname": "libstartdns.so",
     "version":"1.0"
+  },{
+    "Name":"Library Sniff AlphaV2Ray",
+    "Info":"300KB",
+    "path": "libalphav2ray.so",
+    "outname": "libalphav2ray.so",
+    "version":"1.0"
   }
 ]
 }
